@@ -5,7 +5,8 @@ This Jupyter notebook provides an overview of the data science ecosystem. It cov
 ## Installation
 
 To run this Jupyter Notebook, you will need to have Anaconda installed. Anaconda is a distribution of Python that includes many of the libraries and tools that are needed for data science.
-Usage
+
+### Usage
 
 To run this Jupyter Notebook, open it in a Jupyter Notebook environment. Once the notebook is open, you can run the cells by clicking on them and pressing Shift+Enter.
 
